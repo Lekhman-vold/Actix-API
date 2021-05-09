@@ -2,6 +2,7 @@
 My first Actix program
 
 Build project:
+
 `cargo build`
 
 Run server:
