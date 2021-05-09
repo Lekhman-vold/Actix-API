@@ -1,8 +1,9 @@
 # Actix-API
 My first Actix program
 
+Build project:
 `cargo build`
 
-Run server
+Run server:
 
 `cargo run`
